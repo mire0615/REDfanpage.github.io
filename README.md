@@ -98,13 +98,18 @@
 </div>
 
   <h2 style="font-size: 2.5em;"> ✨ 레드님에게 전하고 싶은 말 ✨</h2>
-<iframe 
-  src="https://script.google.com/macros/s/AKfycbytpEvnbu6rWmSVh5tDKmjqnlewzvSGj6AGSmlCIggl-_tymNjhFPn-ajDOujP_2OdkYQ/exec" 
-  width=1000px 
-  height="1200" 
-  frameborder="0" 
-  style="border-radius: 15px;">
-</iframe>
+<div class="message">
+  <p style="font-size: 1.2em; font-weight: bold;">
+    팬분들의 메시지를 아래에 남겨주세요! 💌
+  </p>
+  <iframe 
+    src="https://script.google.com/macros/s/AKfycbytpEvnbu6rWmSVh5tDKmjqnlewzvSGj6AGSmlCIggl-_tymNjhFPn-ajDOujP_2OdkYQ/exec" 
+    width="100%" 
+    height="800" 
+    frameborder="0" 
+    style="border-radius: 15px;">
+  </iframe>
+</div>
 
   <h2 style="font-size: 2.5em;">📺 축하 영상</h2>
   <iframe 
