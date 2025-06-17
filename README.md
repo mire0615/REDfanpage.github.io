@@ -99,7 +99,7 @@
 
   <h2 style="font-size: 2.5em;"> ✨ 레드님에게 전하고 싶은 말 ✨</h2>
 <iframe 
-  src="https://script.google.com/macros/s/AKfycbzSkopFlZAJLRWf-PwkrFZRyOOgxsVCGyNNsxpZQJJHER2BT_ea73XxIVm0AlAkKs2oeQ/exec" 
+  src="https://script.google.com/macros/s/AKfycbzZgIs4gLegoZ64BXyuWYM2YXyLfuDNKDuS_JFVqyT3ffABlhY4uPPRxmoJ-IVgGkSM3g/exec" 
   width=1000px 
   height="1200" 
   frameborder="0" 
