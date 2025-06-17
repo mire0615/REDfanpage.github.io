@@ -103,7 +103,7 @@
     팬분들의 메시지를 아래에 남겨주세요! 💌
   </p>
   <iframe 
-    src="https://script.google.com/macros/s/AKfycbytpEvnbu6rWmSVh5tDKmjqnlewzvSGj6AGSmlCIggl-_tymNjhFPn-ajDOujP_2OdkYQ/exec" 
+    src="https://script.google.com/macros/s/AKfycbzyHWoWx149DIXj2S6B97IidPbZAnDRHU6GSZwTkAvfmXL7aQkslI7HBeuQxIyYw9SMxQ/exec" 
     width="100%" 
     height="800" 
     frameborder="0" 
