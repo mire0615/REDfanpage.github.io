@@ -97,11 +97,8 @@
   <img src="" style="width: 500px; border-radius: 15px;">
 </div>
 
-  <h2 style="font-size: 2.5em;"> ✨ 레드님에게 전하고 싶은 말 ✨</h2>
+  <h2 style="font-size: 2.5em;"> ✨ 크라운이 레드님에게 전하고 싶은 말 ✨</h2>
 <div class="message">
-  <p style="font-size: 2em; font-weight: bold;">
-    💌 크라운이 레드님에게 전하는 말! 💌
-  </p>
   <iframe 
     src="https://script.google.com/macros/s/AKfycbzyHWoWx149DIXj2S6B97IidPbZAnDRHU6GSZwTkAvfmXL7aQkslI7HBeuQxIyYw9SMxQ/exec" 
     width="100%" 
