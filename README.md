@@ -99,7 +99,7 @@
   <h2 style="font-size: 2.5em;"> ✨ 크라운이 레드님에게 전하고 싶은 말 ✨</h2>
 <div class="message">
   <iframe 
-    src="https://script.google.com/macros/s/AKfycbzyHWoWx149DIXj2S6B97IidPbZAnDRHU6GSZwTkAvfmXL7aQkslI7HBeuQxIyYw9SMxQ/exec" 
+    src="https://script.google.com/macros/s/AKfycbx1WMtMM5pL7EOcICfBFVTtY-iVxv4SArouyIRmtHDMsbVAjrHFii6ReGkRAOnrsqELQw/exec" 
     width="100%" 
     height="1000" 
     frameborder="0" 
